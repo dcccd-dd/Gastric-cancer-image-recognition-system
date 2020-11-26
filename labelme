@@ -1,0 +1,5 @@
+图像打标签工具：labelme
+安装流程：
+1、打开 anaconda，打开anaconda的终端界面，或者直接windows搜索anaconda promt
+2、输入pip install labelme，就可以下载了
+3、在终端界面输入labelme就可以打开并使用labelme了
